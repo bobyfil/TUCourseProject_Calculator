@@ -1,0 +1,16 @@
+D:\Work\C#\kursova\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Work\C#\kursova\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Work\C#\kursova\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Work\C#\kursova\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\Work\C#\kursova\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+D:\Work\C#\kursova\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+D:\Work\C#\kursova\Calculator\Calculator\obj\Debug\Calculator.g.resources
+D:\Work\C#\kursova\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Work\C#\kursova\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+D:\Work\C#\kursova\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Work\C#\kursova\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Work\C#\kursova\Calculator\Calculator\obj\Debug\View\Calculator.g.cs
+D:\Work\C#\kursova\Calculator\Calculator\obj\Debug\View\App.g.cs
+D:\Work\C#\kursova\Calculator\Calculator\obj\Debug\View\App.baml
+D:\Work\C#\kursova\Calculator\Calculator\obj\Debug\View\Calculator.baml
+D:\Work\C#\kursova\Calculator\Calculator\obj\Debug\GeneratedInternalTypeHelper.g.cs
